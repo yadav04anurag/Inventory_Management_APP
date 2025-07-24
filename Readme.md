@@ -37,7 +37,7 @@ Follow these steps to get the project running locally.
 
 **1. Clone the Repository**
 ```bash
-git clone https://github.com/your-username/inventory3d.git
+git clone https://github.com/your-username/Inventory_Management_APP.git
 cd inventory3d
 ```
 
